@@ -1,5 +1,5 @@
 export default {
-  primary: "#1e90ff",
+  primary: "#D2042D",
   background: "#ffffff",
   text: "#333333",
   muted: "#777777",
